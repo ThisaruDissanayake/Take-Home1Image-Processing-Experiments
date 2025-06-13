@@ -59,7 +59,7 @@ def reduce_spatial_resolution(image, block_size):
 
 def main():
     # Load an image 
-    image = cv2.imread('D:/7 Semester/computer vision/Take Home1/test4.jpg')
+    image = cv2.imread('D:/7 Semester/computer vision/Take Home1/code/test4.jpg')
     if image is None:
         print("Error: Could not load the image.")
         return
