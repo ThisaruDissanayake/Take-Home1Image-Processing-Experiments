@@ -1,5 +1,5 @@
-# Repository Topic:
-Topic Name: Image-Processing-Experiments
+# Image-Processing-Experiments
+
 ## Welcome!
 Dive into the world of image processing with this collection of fun experiments! This repository demonstrates various techniques to transform and enhance images using Python. Whether you're a hobbyist, a learner, or a developer, you'll find inspiring examples and code to explore.
 ## Description:
