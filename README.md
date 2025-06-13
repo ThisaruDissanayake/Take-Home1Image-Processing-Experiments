@@ -3,7 +3,7 @@ Topic Name: Image-Processing-Experiments
 ## Repository Description:
 "Explore a collection of fun and educational image processing experiments! This repository showcases various techniques to transform and enhance images, including adjusting intensity levels, applying smoothing filters, rotating images, and simulating resolution changes. Built with Python using OpenCV, NumPy, and Matplotlib, it includes sample code and visually stunning results. Perfect for hobbyists, students, or anyone curious about image manipulation—dive in, experiment, and contribute your own ideas!"
 ## Directory Structure
-
+<pre>
 Image-Processing-Experiments/
 │
 ├── images/                  # Folder for all images
@@ -35,3 +35,4 @@ Image-Processing-Experiments/
 │── test2                    # test original images
 |── test3                    # test original images
 └── README.md                # Main readme file
+  </pre>
