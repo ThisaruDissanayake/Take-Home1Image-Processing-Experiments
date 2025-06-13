@@ -65,7 +65,7 @@ def main():
         return
     
     
-    intensity_levels = [2, 4, 8,16,32,64,128,256]  # Example: powers of 2
+    intensity_levels = [2, 4, 8,16,32,64,128,256] 
     for levels in intensity_levels:
         reduced_intensity = reduce_intensity_levels(image, levels)
         cv2.imwrite(f'reduced_intensity_{levels}.jpg', reduced_intensity)
